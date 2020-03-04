@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="scoreText">Score:</string>
+    <string name="scoreVal">0</string>
+    <string name="gameLifecycleState">New</string>
+    <string name="gameState">Pause</string>
+    <string name="livesText">Lives:</string>
+    <string name="livesVal">3</string>
+</resources>
